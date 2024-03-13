@@ -119,7 +119,7 @@ body {
 }
 
 .padding {
-    padding: 2rem
+    padding: 0 2rem
 }
 
 .w-32 {
@@ -275,7 +275,8 @@ tl-item.active .tl-dot:before {
     font-size: .85em;
     margin-top: 2px;
     min-width: 100px;
-    max-width: 100px
+    max-width: 100px;
+    /* color: rgb(218, 198, 181); */
 }
 
 .avatar {
